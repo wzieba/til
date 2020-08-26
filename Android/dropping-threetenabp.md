@@ -1,11 +1,14 @@
 # Dropping ThreeTenABP in favor of Core Library Desugaring
 
 If one uses AGP version 4.0+, it is possible to drop support for commonly 
-used library from @JakeWharton which backports JSR-310 Date and Time API for
-Android, as pre-AGP 4.0+ projects with `minSdk` below `26` couldn't natively
-use Java8 APIs.
+used library from @JakeWharton which backports `JSR-310 Date and Time API` for
+Android. Friendly reminder here: pre-AGP 4.0+ projects with `minSdk` below `26` can't natively
+use any Java 8 APIs.
 
-To enable desugaring one has to 
+### Enable desugaring
+Two things must be done:
+1. enable `codeLibraryDesugaringEnabled` in `android.compileOptions`
+1. add desugar lib by `coreLibraryDesugaring` configuration
 
 ```groovy
 android {
@@ -31,7 +34,7 @@ information with itself as a standard Android asset.
 
 With Java 8 it is a problem as java.time takes system-level timezone
 information. To provide timezone data seperately from Android system while
-using desugaring, one might use @ZacSweers/ticktock . This library allows
-to inlude own timezone data during desugaring. For details of the process go
+using desugaring, one might use @ZacSweers [ticktock](https://github.com/ZacSweers/ticktock).
+This library allows to **inlude own timezone data during desugaring**. For details of the process go
 to blogpost: https://www.zacsweers.dev/ticktock-desugaring-timezones/
 
