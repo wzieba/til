@@ -1,0 +1,24 @@
+name: Build README
+on:
+  push:
+    branches:
+    - master
+    paths-ignore:
+    - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Autoformat README
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
+      with:
+        description: |
+            Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
+            Origin of the idea can be found on [Hacker News][3].
+        footer: |
+          [1]: https://github.com/simonw/til
+          [2]: https://github.com/jbranchaud/til
+          [3]: https://news.ycombinator.com/item?id=22908044
