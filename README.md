@@ -5,7 +5,7 @@ Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -14,6 +14,7 @@ _3 TILs and counting..._
 - [Android](#Android)
 - [Dagger](#Dagger)
 - [Rx](#Rx)
+- [Tools](#Tools)
 
 ### [Android](#Android)
 - [Dropping ThreeTenABP in favor of Core Library Desugaring](Android/dropping-threetenabp.md)
@@ -23,6 +24,9 @@ _3 TILs and counting..._
 
 ### [Rx](#Rx)
 - [Observable#switchMapCompletable does not complete](Rx/switch-map-completable-does-not-complete.md)
+
+### [Tools](#Tools)
+- [Karabiner Elements config](Tools/karabiner-elements-config.md)
 
 [1]: https://github.com/simonw/til
 [2]: https://github.com/jbranchaud/til
