@@ -1,5 +1,17 @@
 # Karabiner Elements config
 
+## Update 15.09.2020
+
+Goku supports only `Complex modifications` for Karabiner. `Complex modifications` work pretty bad, specially
+for single-key mappers. E.g. after `left cmd` -> `left option` and `left option` -> `left cmd` modification,
+pressing (in following order) `left option + left ctrl` gave `left ctrl + left option` combination, but 
+pressing `left ctrl + left option` was logging... `left command + left option` which made no sense.
+
+After strugling for some time with finding any decent solution, I gave up on that and created `simple modifications`
+in Karabiner GUI.
+
+## Old post
+
 Karabiner Elements is keyboard customizer. Its generated from GUI config file is (`karabiner.json`) terrible:
 1. It creates new file every time (so it's impossible to keep it in dotfile repo based on symlinks
 1. It's very difficult to read - a lot of boilerplate and hard-to-follow structure
