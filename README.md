@@ -5,7 +5,7 @@ Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _4 TILs and counting..._
 
 - [Android](#Android)
 - [Dagger](#Dagger)
+- [GithubActions](#GithubActions)
 - [Rx](#Rx)
 - [Tools](#Tools)
 
@@ -21,6 +22,9 @@ _4 TILs and counting..._
 
 ### [Dagger](#Dagger)
 - [When Dagger's @Singleton is created twice?](Dagger/when-daggers-singleton-is-created-twice.md)
+
+### [GithubActions](#GithubActions)
+- [Self-hosted runners tips and tricks](GithubActions/self-hosted-runner-tips.md)
 
 ### [Rx](#Rx)
 - [Observable#switchMapCompletable does not complete](Rx/switch-map-completable-does-not-complete.md)
