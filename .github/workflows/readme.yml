@@ -13,7 +13,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
+      uses: wzieba/github-action-til-autoformat-readme@master
       with:
         description: |
             Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
