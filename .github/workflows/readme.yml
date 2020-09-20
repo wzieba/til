@@ -11,7 +11,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Autoformat README
-      uses: wzieba/github-action-til-autoformat-readme@919d665
+      uses: wzieba/github-action-til-autoformat-readme@use_absolute_links
       with:
         description: |
             Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
@@ -20,5 +20,4 @@ jobs:
           [1]: https://github.com/simonw/til
           [2]: https://github.com/jbranchaud/til
           [3]: https://news.ycombinator.com/item?id=22908044
-        date_format: "invalid date format"
 
