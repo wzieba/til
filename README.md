@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -14,6 +14,7 @@ _5 TILs and counting..._
 
 ### [Android](#Android)
 - [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md)
+- [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md)
 
 ### [Dagger](#Dagger)
 - [When Dagger's @Singleton is created twice?](https://github.com/wzieba/til/blob/master/Dagger/when-daggers-singleton-is-created-twice.md)
