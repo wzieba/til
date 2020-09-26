@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -9,6 +9,7 @@ _6 TILs and counting..._
 - [Android](#Android)
 - [Dagger](#Dagger)
 - [GithubActions](#GithubActions)
+- [Gradle](#Gradle)
 - [Rx](#Rx)
 - [Tools](#Tools)
 
@@ -21,6 +22,9 @@ _6 TILs and counting..._
 
 ### [GithubActions](#GithubActions)
 - [Self-hosted runners tips and tricks](https://github.com/wzieba/til/blob/master/GithubActions/self-hosted-runner-tips.md)
+
+### [Gradle](#Gradle)
+- [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md)
 
 ### [Rx](#Rx)
 - [Observable#switchMapCompletable does not complete](https://github.com/wzieba/til/blob/master/Rx/switch-map-completable-does-not-complete.md)
