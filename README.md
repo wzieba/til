@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -10,6 +10,7 @@ _8 TILs and counting..._
 - [Dagger](#Dagger)
 - [GithubActions](#GithubActions)
 - [Gradle](#Gradle)
+- [Kotlin](#Kotlin)
 - [Rx](#Rx)
 - [Tools](#Tools)
 
@@ -26,6 +27,9 @@ _8 TILs and counting..._
 
 ### [Gradle](#Gradle)
 - [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md)
+
+### [Kotlin](#Kotlin)
+- [inline classes in Kotlin](https://github.com/wzieba/til/blob/master/Kotlin/kotlin-inline-classes.md)
 
 ### [Rx](#Rx)
 - [Observable#switchMapCompletable does not complete](https://github.com/wzieba/til/blob/master/Rx/switch-map-completable-does-not-complete.md)
