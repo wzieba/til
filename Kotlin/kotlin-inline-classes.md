@@ -1,4 +1,4 @@
-# inline classes in Kotlin
+# Inline classes in Kotlin
 
 Kotlin language has concept of `inline class`. It's safe to say that it's enhanced `alias` as `inline class` can have only one member:
 
