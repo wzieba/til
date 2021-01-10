@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -30,6 +30,7 @@ _10 TILs and counting..._
 - [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md)
 
 ### [JVM](#JVM)
+- [JiT and AoT compilations in JVM](https://github.com/wzieba/til/blob/master/JVM/jit_aot_compilations.md)
 - [WeakReference](https://github.com/wzieba/til/blob/master/JVM/weakreference.md)
 
 ### [Kotlin](#Kotlin)
