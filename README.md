@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _11 TILs and counting..._
 - [JVM](#JVM)
 - [Kotlin](#Kotlin)
 - [Rx](#Rx)
+- [Shell](#Shell)
 - [Tools](#Tools)
 
 ### [Android](#Android)
@@ -38,6 +39,9 @@ _11 TILs and counting..._
 
 ### [Rx](#Rx)
 - [Observable#switchMapCompletable does not complete](https://github.com/wzieba/til/blob/master/Rx/switch-map-completable-does-not-complete.md)
+
+### [Shell](#Shell)
+- [`yes`](https://github.com/wzieba/til/blob/master/Shell/yes.md)
 
 ### [Tools](#Tools)
 - [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md)
