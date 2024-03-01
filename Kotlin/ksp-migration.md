@@ -1,4 +1,4 @@
-# Migrating to KSP
+# Migrating annotation processor to KSP
 
 ## How kapt and ksp differ?
 
