@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _14 TILs and counting..._
 - [Rx](#Rx)
 - [Shell](#Shell)
 - [Tools](#Tools)
+- [Vim](#Vim)
 
 ### [Android](#Android)
 - [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md)
@@ -47,6 +48,9 @@ _14 TILs and counting..._
 
 ### [Tools](#Tools)
 - [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md)
+
+### [Vim](#Vim)
+- [Fix file indentation](https://github.com/wzieba/til/blob/master/Vim/fix-file-indentation.md)
 
 [1]: https://github.com/simonw/til
 [2]: https://github.com/jbranchaud/til
