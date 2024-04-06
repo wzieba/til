@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -48,6 +48,7 @@ _15 TILs and counting..._
 
 ### [Tools](#Tools)
 - [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md)
+- [R8 full mode enables `-renamesourcefileattribute` by default](https://github.com/wzieba/til/blob/master/Tools/r8-full-mode-renamesourcefileattribute.md)
 
 ### [Vim](#Vim)
 - [Fix file indentation](https://github.com/wzieba/til/blob/master/Vim/fix-file-indentation.md)
