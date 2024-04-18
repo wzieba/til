@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -47,6 +47,7 @@ _17 TILs and counting..._
 - [`yes`](https://github.com/wzieba/til/blob/master/Shell/yes.md)
 
 ### [Tools](#Tools)
+- [`git filter-repo`](https://github.com/wzieba/til/blob/master/Tools/git-filter-repo.md)
 - [`jq`](https://github.com/wzieba/til/blob/master/Tools/jq.md)
 - [Karabiner Elements config](https://github.com/wzieba/til/blob/master/Tools/karabiner-elements-config.md)
 - [R8 full mode enables `-renamesourcefileattribute` by default](https://github.com/wzieba/til/blob/master/Tools/r8-full-mode-renamesourcefileattribute.md)
