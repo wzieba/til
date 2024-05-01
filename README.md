@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _18 TILs and counting..._
 - [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md)
 - [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md)
 - [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md)
+- [Tracing method execution. Fixing binder performance bottleneck](https://github.com/wzieba/til/blob/master/Android/tracing-method-execution.md)
 
 ### [Dagger](#Dagger)
 - [When Dagger's @Singleton is created twice?](https://github.com/wzieba/til/blob/master/Dagger/when-daggers-singleton-is-created-twice.md)
