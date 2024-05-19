@@ -1,6 +1,6 @@
 Inspired by [simonw/til][1] who was inspired by [jbranchaud/til][2].
 Origin of the idea can be found on [Hacker News][3].
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -10,6 +10,7 @@ _19 TILs and counting..._
 - [Dagger](#Dagger)
 - [GithubActions](#GithubActions)
 - [Gradle](#Gradle)
+- [IntelliJ Platform](#IntelliJ Platform)
 - [JVM](#JVM)
 - [Kotlin](#Kotlin)
 - [Rx](#Rx)
@@ -32,6 +33,9 @@ _19 TILs and counting..._
 ### [Gradle](#Gradle)
 - [Accessing start parameters in Gradle plugin is impossible when using configuration cache](https://github.com/wzieba/til/blob/master/Gradle/accessing-some-properties-is-not-possible-with-cc.md)
 - [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md)
+
+### [IntelliJ Platform](#IntelliJ Platform)
+- [`PasswordSafe`](https://github.com/wzieba/til/blob/master/IntelliJ Platform/`PasswordSafe`.md)
 
 ### [JVM](#JVM)
 - [JiT and AoT compilations in JVM](https://github.com/wzieba/til/blob/master/JVM/jit_aot_compilations.md)
