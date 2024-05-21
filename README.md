@@ -35,7 +35,7 @@ _20 TILs and counting..._
 - [How to monitor Gradle daemon CPU & RAM usage (or any other JVM proccess)](https://github.com/wzieba/til/blob/master/Gradle/how-to-monitor-gradle-daemon-memory-cpu-usage.md)
 
 ### [IntelliJ Platform](#IntelliJ Platform)
-- [`PasswordSafe`](https://github.com/wzieba/til/blob/master/IntelliJ Platform/`PasswordSafe`.md)
+- [`PasswordSafe`](https://github.com/wzieba/til/blob/master/IntelliJ Platform/passwordsafe.md)
 
 ### [JVM](#JVM)
 - [JiT and AoT compilations in JVM](https://github.com/wzieba/til/blob/master/JVM/jit_aot_compilations.md)
