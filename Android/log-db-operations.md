@@ -1,3 +1,5 @@
+# Log SQL statements
+
 It's possible to log all database operations that are performed by an Android application by using `adb`.
 
 To do this, run an emulator with `ROOT` access ([AOSP image, without Google Services](https://developer.android.com/studio/run/managing-avds#system-image)), and then
