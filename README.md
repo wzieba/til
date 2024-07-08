@@ -22,7 +22,7 @@ _21 TILs and counting..._
 - [Dropping ThreeTenABP in favor of Core Library Desugaring](https://github.com/wzieba/til/blob/master/Android/dropping-threetenabp.md)
 - [How Glide tags images and how to get those tags?](https://github.com/wzieba/til/blob/master/Android/how-glide-tags-images.md)
 - [ATM instrumentation tests do not work with core desugaring](https://github.com/wzieba/til/blob/master/Android/instrumentation-tests-dont-work-with-desugaring.md)
-- [It's possible to log all database operations that are performed by an Android application by using `adb`.](https://github.com/wzieba/til/blob/master/Android/log-db-operations.md)
+- [Log SQL statements](https://github.com/wzieba/til/blob/master/Android/log-db-operations.md)
 - [Tracing method execution. Fixing binder performance bottleneck](https://github.com/wzieba/til/blob/master/Android/tracing-method-execution.md)
 
 ### [Dagger](#Dagger)
