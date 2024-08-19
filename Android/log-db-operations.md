@@ -4,7 +4,7 @@ It's possible to log all database operations that are performed by an Android ap
 
 To do this, run an emulator with `ROOT` access ([AOSP image, without Google Services](https://developer.android.com/studio/run/managing-avds#system-image)), and then
 
-```console
+```sh
 adb shell stop
 adb shell start
 adb root
